@@ -10,3 +10,8 @@ Follow instructions [here](https://codeql.github.com/docs/codeql-for-visual-stud
 ```
 codeql database create <database_dir> --overwrite --language=cpp
 ```
+
+## Download CodeQL packs
+```
+codeql pack download codeql/cpp-queries
+```

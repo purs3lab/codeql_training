@@ -1,0 +1,10 @@
+https://github.com/coturn/coturn
+https://github.com/ravynsoft/ravynos
+https://github.com/eclipse/paho.mqtt.embedded-c
+https://github.com/taisei-project/taisei
+https://github.com/frankmorgner/vsmartcard
+https://github.com/cronie-crond/cronie
+https://github.com/Cerbersec/Ares
+https://github.com/KhronosGroup/OpenCL-ICD-Loader
+https://github.com/swharden/AVR-projects
+https://github.com/colobot/colobot
